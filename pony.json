@@ -4,15 +4,15 @@
     {
       "status":"0",
       "link":"http://",
-      "pengaturan_iklan":"2",
+      "pengaturan_iklan":"1",
       "admob_open_ads":"",
-      "admob_banner":"",
+      "admob_banner":"banner ca-app-pub-3549516203481586/3942164182",
       "admob_inter":"",
-      "admob_native":"",
+      "admob_native":"nativ ca-app-pub-3549516203481586/7689837507",
       "interval":3,
-      "fan_inter":"370507721052547_370508204385832",
-      "fan_banner":"370507721052547_370508597719126",
-      "fan_native":"370507721052547_371707877599198",
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
       "startappid":"12345678"
     }
   ],
